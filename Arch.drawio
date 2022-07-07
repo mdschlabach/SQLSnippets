@@ -1,0 +1,709 @@
+<mxfile host="app.diagrams.net" modified="2021-10-07T14:04:26.122Z" agent="5.0 (Windows)" etag="Wmtiv7qJzyHuEA4M_49c" version="14.9.6" type="github">
+  <diagram id="utdpxdcATHKkvTewt8IE" name="Page-1">
+    <mxGraphModel dx="839" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1047" y="1160" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-156" value="&lt;font color=&quot;#00cccc&quot;&gt;Live Environment/Production&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="712" y="380" width="838" height="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-108" value="&lt;font color=&quot;#00cccc&quot;&gt;Dev Environment&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="20" y="985" width="650" height="865" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-151" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="276" y="1291" width="125" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-20" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="42" y="1620" width="370" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-119" value="&lt;font color=&quot;#00cccc&quot;&gt;Staging Environment&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="20" y="386.5" width="648" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-109" value="&lt;font color=&quot;#00cccc&quot;&gt;Lab Environment&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1910" width="650" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-115" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="294" y="2210" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-91" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="54" y="1950" width="370" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-19" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="44" y="450" width="350" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-4" value="Availability Group" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
+          <mxGeometry x="76" y="1655" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="136" y="1745" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="266" y="1745" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="234" y="790" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-5" value="TESQLDW01&lt;br&gt;WSF 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="234" y="762" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-6" value="DEVSQLAAG01&lt;br&gt;WSC 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="136" y="1715" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-8" value="DEVSQLAAG02&lt;br&gt;WSC 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="266" y="1715" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="264" y="1470" width="76" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-11" value="&lt;div&gt;IdfMC&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="285" y="1490" width="44" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="296" y="754" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="424" y="754" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-18" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;BizIntel&lt;/div&gt;&lt;div&gt;Commerce&lt;/div&gt;&lt;div&gt;Commercesnapshot&lt;/div&gt;&lt;div&gt;DataPulls&lt;/div&gt;&lt;div&gt;DataPullssnapshot&lt;/div&gt;&lt;div&gt;MarketingOps&lt;/div&gt;&lt;div&gt;MarketingOpssnapshot&lt;/div&gt;&lt;div&gt;Party&lt;/div&gt;&lt;div&gt;Partysnapshot&lt;/div&gt;&lt;div&gt;STRIIM_REPL_POC&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="431" y="784" width="54.5" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-20" value="&lt;div style=&quot;font-size: 7px&quot;&gt;Largely Empty&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Testing SANS&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;DELL&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;PURE&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="491" y="783" width="50" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;SQLDEV01&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="196" y="1675" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-24" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.9;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.04;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" parent="1" source="s3oKKZyK6elYPLjLefH5-1" target="s3oKKZyK6elYPLjLefH5-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="1815" as="sourcePoint" />
+            <mxPoint x="255" y="1765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-25" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.6;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;" parent="1" source="s3oKKZyK6elYPLjLefH5-1" target="s3oKKZyK6elYPLjLefH5-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="166" y="1745" as="sourcePoint" />
+            <mxPoint x="216" y="1695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-26" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.32;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="s3oKKZyK6elYPLjLefH5-2" target="s3oKKZyK6elYPLjLefH5-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176" y="1755" as="sourcePoint" />
+            <mxPoint x="226" y="1705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="316" y="1697" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-28" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="506" y="130" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-29" value="&lt;font style=&quot;font-size: 12px&quot;&gt;DC11 MSSQL&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="584" y="66" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px&quot;&gt;128 Processorrs&lt;br&gt;6TB&lt;br&gt;164TB Storage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="641" y="16" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-31" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="564.2" y="30" width="71.6" height="18.8" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-36" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="390" y="123" width="40" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-37" value="Subordinate:&lt;br&gt;ESX20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="390" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-38" value="Subordinate:&lt;br&gt;ESX21" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="504.00000000000006" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-41" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="662" y="150" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-42" value="Main:&amp;nbsp; ESX22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="662" y="210" width="40" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-45" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.esx_esxi;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="770" y="120" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-46" value="Subordinate: ESX23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="769" y="179" width="40" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;strokeColor=#66B2FF;" parent="1" source="s3oKKZyK6elYPLjLefH5-36" target="s3oKKZyK6elYPLjLefH5-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;strokeColor=#66B2FF;" parent="1" source="s3oKKZyK6elYPLjLefH5-28" target="s3oKKZyK6elYPLjLefH5-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="143.34285714285716" as="sourcePoint" />
+            <mxPoint x="597.992700729927" y="58.799999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;strokeColor=#66B2FF;" parent="1" source="s3oKKZyK6elYPLjLefH5-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="153.34285714285716" as="sourcePoint" />
+            <mxPoint x="620" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3oKKZyK6elYPLjLefH5-50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;strokeColor=#66B2FF;" parent="1" source="s3oKKZyK6elYPLjLefH5-45" target="s3oKKZyK6elYPLjLefH5-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="163.34285714285716" as="sourcePoint" />
+            <mxPoint x="617.992700729927" y="78.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-4" value="Availability Group" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
+          <mxGeometry x="74" y="486.5" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="134" y="576.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="264" y="576.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-7" value="SGSQLAAG03&lt;br&gt;WSC 2019&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="134" y="546.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-8" value="SGSQLAAG04&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="264" y="546.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="434" y="486.5" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-10" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="446" y="510" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-12" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="506" y="510" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;SQLDEV01&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="194" y="506.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-14" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.9;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.04;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-5" target="xU6hME46SP4f6GM8zD-e-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="646.5" as="sourcePoint" />
+            <mxPoint x="253" y="596.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-15" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.6;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-5" target="xU6hME46SP4f6GM8zD-e-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164" y="576.5" as="sourcePoint" />
+            <mxPoint x="214" y="526.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-16" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.32;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-6" target="xU6hME46SP4f6GM8zD-e-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174" y="586.5" as="sourcePoint" />
+            <mxPoint x="224" y="536.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="306" y="526.5" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-76" value="Availability Group" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
+          <mxGeometry x="88" y="1985" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-77" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="148" y="2075" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-78" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="278" y="2075" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-79" value="SQLLAB02&lt;br&gt;WS 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="148" y="2045" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-80" value="SQLLAB04&lt;br&gt;WS 2016&lt;br&gt;SS 2017&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="278" y="2045" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="454" y="1985" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-82" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="458" y="2010" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-84" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="518" y="2010" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-85" value="&lt;span style=&quot;font-size: 12px&quot;&gt;TESQLAAG01&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="208" y="2010" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-86" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.9;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.04;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-77" target="xU6hME46SP4f6GM8zD-e-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="217" y="2145" as="sourcePoint" />
+            <mxPoint x="267" y="2095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-87" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.6;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-77" target="xU6hME46SP4f6GM8zD-e-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178" y="2075" as="sourcePoint" />
+            <mxPoint x="228" y="2025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-88" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.32;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-78" target="xU6hME46SP4f6GM8zD-e-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188" y="2085" as="sourcePoint" />
+            <mxPoint x="238" y="2035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="328" y="2027" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-92" value="WSFC: tesqlcl01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="194" y="1959" width="108" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-93" value="WSFC:&amp;nbsp; devsqlcl01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="186" y="1625" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-95" value="WSFC:&amp;nbsp; sgsqlaag01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="161.5" y="460" width="122.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-101" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.resource_pool;" parent="1" vertex="1">
+          <mxGeometry x="256" y="210" width="56" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-102" value="PreProd SQL&amp;nbsp; Assigned 20% of Resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="264" y="277" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-105" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.resource_pool;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="218" width="56" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-106" value="Prod SQL&amp;nbsp; Assigned 80% of Resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1016" y="277" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-107" value="Resource Pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="264" y="182" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-110" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="114" y="2285" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-111" value="SQLLAB03&lt;br&gt;WSC 2016&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="114" y="2255" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-112" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;DWDiagnostics&lt;/div&gt;&lt;div&gt;DWConfiguration&lt;/div&gt;&lt;div&gt;DWQueue&lt;/div&gt;&lt;div&gt;PG_FOOLIQ&lt;/div&gt;&lt;div&gt;Snowflake&lt;/div&gt;&lt;div&gt;PG_Consenter&lt;/div&gt;&lt;div&gt;dpt_xpressfeed&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="334" y="2240" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-114" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="174" y="2242" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-116" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 200 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="78" y="2320" width="52" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-117" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 85 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 10 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="102" y="2107.5" width="46" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-118" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 80 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 50 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="244" y="2105" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-120" value="3 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;16 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 850 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 400 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 40 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1777" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-121" value="3 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;16 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 1024 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 500 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 40 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="225.5" y="610" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-122" value="3 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;16 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 1024 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 500 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 40 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="92" y="610" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-123" value="3 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;16 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 850 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 400 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 40 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="231.5" y="1777" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-124" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;16 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 500 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 2300 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 1536 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="184" y="843" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-125" value="Consumed:&lt;br style=&quot;font-size: 11px&quot;&gt;10 Cores&lt;br style=&quot;font-size: 11px&quot;&gt;48 GB RAM&lt;br style=&quot;font-size: 11px&quot;&gt;Disk:&amp;nbsp; 7.644TB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="580" y="390" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-126" value="Consumed:&lt;br style=&quot;font-size: 11px&quot;&gt;16 Cores (18)&lt;br style=&quot;font-size: 11px&quot;&gt;64 GB RAM (72)&lt;br style=&quot;font-size: 11px&quot;&gt;Disk:&amp;nbsp; 4.405TB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="574" y="990" width="86" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-127" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1169" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-128" value="DEVSQLMS01&lt;br&gt;WS 2014&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1139" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-129" value="2 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 60 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 18 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 35 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="44" y="1209" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-131" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="158" y="1030" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-132" value="DEVSQLMS02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="158" y="1000" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-133" value="2 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 60 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 32 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 200 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="122" y="1070" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-134" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-135" value="DEVSQLSGLNT01&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-136" value="2 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD ParaVirtual:&amp;nbsp; 950GB&lt;br&gt;5Disks" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="54" y="1380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-137" value="Consumed:&lt;br style=&quot;font-size: 11px&quot;&gt;12 Cores&lt;br style=&quot;font-size: 11px&quot;&gt;24 GB RAM&lt;br&gt;Disk:&amp;nbsp; .625 TB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="584" y="1918" width="86" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-138" value="Resource Pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1016" y="185" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-140" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="91" y="1490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-141" value="SQLSPIRION01&lt;br&gt;WS 2019&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="86" y="1460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-142" value="6 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;16 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1&amp;nbsp; 60 GB&lt;br&gt;HDD2 100 GB&lt;br&gt;HDD3 60 GB&lt;br&gt;HDD4 20GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="55" y="1530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-143" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="136" y="1451" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-144" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="148.5" y="1301" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-145" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1142" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-146" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="444" y="1665" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-147" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="456" y="1688.5" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-148" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="516" y="1688.5" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-149" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;StrongMailDemo&lt;/div&gt;&lt;div&gt;StrongMailStaging&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="313.5" y="1306" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-153" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1110" width="125" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-155" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;AprimoDialogue&lt;/div&gt;&lt;div&gt;MarketingOps&lt;/div&gt;&lt;div&gt;StrongMailDemo&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="316" y="1129" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-157" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="764" y="443.5" width="496" height="236.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-158" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="849.5" y="751" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-159" value="SQLDW01&lt;br&gt;WS 2012&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="849.5" y="721" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-160" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="911.5" y="712" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-161" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1039.5" y="712" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-162" value="&lt;div&gt;&lt;div&gt;BizIntel&lt;/div&gt;&lt;div&gt;DailyMarts&lt;/div&gt;&lt;div&gt;DataAnalytics&lt;/div&gt;&lt;div&gt;DataMining&lt;/div&gt;&lt;div&gt;dba_local&lt;/div&gt;&lt;div&gt;dbtest1&lt;/div&gt;&lt;div&gt;dbtest2&lt;/div&gt;&lt;div&gt;dbtest3&lt;/div&gt;&lt;div&gt;DW&lt;/div&gt;&lt;div&gt;DW_MetaData&lt;/div&gt;&lt;div&gt;DW_Staging&lt;/div&gt;&lt;div&gt;DW_Summary&lt;/div&gt;&lt;div&gt;EmailArchive&lt;/div&gt;&lt;div&gt;Forecasting&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1052.5" y="736" width="54.5" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-164" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;MiniVault&lt;/div&gt;&lt;div&gt;MonthDetail&lt;/div&gt;&lt;div&gt;Ntirety&lt;/div&gt;&lt;div&gt;OneTimeLoad&lt;/div&gt;&lt;div&gt;Operational&lt;/div&gt;&lt;div&gt;Periscope&lt;/div&gt;&lt;div&gt;Playground&lt;/div&gt;&lt;div&gt;Priorities&lt;/div&gt;&lt;div&gt;Sandbox&lt;/div&gt;&lt;div&gt;SpecialProjects&lt;/div&gt;&lt;div&gt;TheAscent&lt;/div&gt;&lt;div&gt;UKDW&lt;/div&gt;&lt;div&gt;UKExternalData&lt;/div&gt;&lt;div&gt;UKPlayground&lt;/div&gt;&lt;div&gt;UKStaging&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1106.5" y="741" width="50" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-165" value="Availability Group" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" parent="1" vertex="1">
+          <mxGeometry x="800.5" y="480" width="406" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-166" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="854" y="570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-167" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="984" y="570" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-168" value="SQLAAG01&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="845" y="538" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-169" value="SQLAAG02&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="974" y="539" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-170" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1321" y="490" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-171" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1333" y="513.5" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-172" value="&lt;div style=&quot;font-size: 7px&quot;&gt;AprimoDialogue&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;ASPState&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Cache&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CampaignActivity&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CAPSCaching&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Commerce&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Community&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CommunityServer&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Contest&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;CustomerTraits&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;EmailDelivery&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Felton&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;Folios&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolContent&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolFunds&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;FoolWeb&lt;/div&gt;&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1393" y="513.5" width="50" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-173" value="&lt;font style=&quot;font-size: 12px&quot;&gt;VSDB01&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="945.5" y="497" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-174" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.9;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.04;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-166" target="xU6hME46SP4f6GM8zD-e-167" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="923" y="640" as="sourcePoint" />
+            <mxPoint x="973" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-175" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.6;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-166" target="xU6hME46SP4f6GM8zD-e-173" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="884" y="570" as="sourcePoint" />
+            <mxPoint x="934" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-176" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;exitX=0.32;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-167" target="xU6hME46SP4f6GM8zD-e-173" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="894" y="580" as="sourcePoint" />
+            <mxPoint x="944" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-177" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1193" y="513.5" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-178" value="WSFC:&amp;nbsp; sqlaagcl01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="881.5" y="453.5" width="122.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-179" value="8 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;128 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 1024 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 500 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 200 GB&lt;br&gt;HDD5 20 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="945.5" y="603.5" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-180" value="8 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;128 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 1024 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 500 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 200 GB&lt;br&gt;HDD5 20GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="812" y="603.5" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-181" value="20 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;256 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 80 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 2100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 1100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 5470 GB&lt;br&gt;HDD5 2500 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="799.5" y="801" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-182" value="Consumed:&lt;br style=&quot;font-size: 11px&quot;&gt;10 Cores&lt;br style=&quot;font-size: 11px&quot;&gt;48 GB RAM&lt;br style=&quot;font-size: 11px&quot;&gt;Disk:&amp;nbsp; 7.644TB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="383.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-183" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="1119.5" y="565.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-184" value="SQLAAG03&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1112" y="537" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-185" value="8 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;128 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 1024 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 500 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 200 GB&lt;br&gt;HDD5 20GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1076" y="604" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-187" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FF00;" parent="1" source="xU6hME46SP4f6GM8zD-e-183" target="xU6hME46SP4f6GM8zD-e-173" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="584" as="sourcePoint" />
+            <mxPoint x="1052" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xU6hME46SP4f6GM8zD-e-188" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;entryX=0;entryY=0.85;entryDx=0;entryDy=0;strokeColor=#00FF00;entryPerimeter=0;" parent="1" target="xU6hME46SP4f6GM8zD-e-183" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="608" as="sourcePoint" />
+            <mxPoint x="1108.5" y="609.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="855.5" y="969" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-2" value="SQLREPL01&lt;br&gt;WSF 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="855.5" y="939" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1125.5" y="931" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1248.75" y="890" width="274.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-5" value="&lt;div&gt;&lt;div&gt;AdInventory&lt;/div&gt;&lt;div&gt;Admin&lt;/div&gt;&lt;div&gt;AdServerTrending&lt;/div&gt;&lt;div&gt;Affiliates&lt;/div&gt;&lt;div&gt;aprimodialogue&lt;/div&gt;&lt;div&gt;BizIntel&lt;/div&gt;&lt;div&gt;CampaignActivity&lt;/div&gt;&lt;div&gt;CampaignActivityHistory&lt;/div&gt;&lt;div&gt;Commerce&lt;/div&gt;&lt;div&gt;community&lt;/div&gt;&lt;div&gt;CommunityServer&lt;/div&gt;&lt;div&gt;Contest&lt;/div&gt;&lt;div&gt;CustomerTraits&lt;/div&gt;&lt;div&gt;DataPulls&lt;/div&gt;&lt;div&gt;dba_local&lt;/div&gt;&lt;div&gt;DBATools&lt;/div&gt;&lt;div&gt;DFAdmin&lt;/div&gt;&lt;div&gt;DFPortfolios&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1266.5" y="945.5" width="54.5" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-6" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;MailHistory&lt;/div&gt;&lt;div&gt;Marketing&lt;/div&gt;&lt;div&gt;MarketingOps&lt;/div&gt;&lt;div&gt;MarketingOps_ARCHIVE&lt;/div&gt;&lt;div&gt;Member&lt;/div&gt;&lt;div&gt;Milton&lt;/div&gt;&lt;div&gt;MyFool&lt;/div&gt;&lt;div&gt;Ntirety&lt;/div&gt;&lt;div&gt;OneTimeLoad&lt;/div&gt;&lt;div&gt;Party&lt;/div&gt;&lt;div&gt;Quotes&lt;/div&gt;&lt;div&gt;ReportingData&lt;/div&gt;&lt;div&gt;Shop&lt;/div&gt;&lt;div&gt;Source&lt;/div&gt;&lt;div&gt;SSISDB&lt;/div&gt;&lt;div&gt;Staging&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1383" y="939" width="77.5" height="155.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-7" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;DoNotContact&lt;/div&gt;&lt;div&gt;DWConfiguration&lt;/div&gt;&lt;div&gt;DWDiagnostics&lt;/div&gt;&lt;div&gt;DWProduction&lt;/div&gt;&lt;div&gt;DWQueue&lt;/div&gt;&lt;div&gt;EmailDelivery&lt;/div&gt;&lt;div&gt;Felton&lt;/div&gt;&lt;div&gt;Folios&lt;/div&gt;&lt;div&gt;FoolFunds&lt;/div&gt;&lt;div&gt;FoolJobs&lt;/div&gt;&lt;div&gt;FoxTrot&lt;/div&gt;&lt;div&gt;Freebies&lt;/div&gt;&lt;div&gt;FreebiesHistory&lt;/div&gt;&lt;div&gt;Freemail&lt;/div&gt;&lt;div&gt;GlobalTranslation&lt;/div&gt;&lt;div&gt;Logging&lt;/div&gt;&lt;div&gt;LogUID&lt;/div&gt;&lt;div&gt;Mail&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1325.5" y="939.5" width="57.5" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="kb5vmj3-TxKwOpVoKTIA-8" value="20 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;256 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 80 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 2100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 1100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 5470 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="805.5" y="1019" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-1" value="&lt;div style=&quot;font-size: 7px&quot;&gt;&lt;div&gt;&lt;span&gt;StrongMailAcq&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;StrongMailAcq_ARCHIVE&lt;/div&gt;&lt;div&gt;StrongMailDemo&lt;/div&gt;&lt;div&gt;StrongMailDemo_ARCHIVE&lt;/div&gt;&lt;div&gt;SubscriptionAccounting&lt;/div&gt;&lt;div&gt;Survey&lt;/div&gt;&lt;div&gt;TickerContent&lt;/div&gt;&lt;div&gt;UKContent&lt;/div&gt;&lt;div&gt;UKDataPulls&lt;/div&gt;&lt;div&gt;UKMFBoards&lt;/div&gt;&lt;div&gt;UKReportingData&lt;/div&gt;&lt;div&gt;UKTagClouds&lt;/div&gt;&lt;div&gt;UKUser&lt;/div&gt;&lt;div&gt;USMFBoards&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1451" y="936.5" width="60" height="133.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-3" value="&lt;font color=&quot;#00cccc&quot;&gt;One Offs Managed by DPT&lt;/font&gt;" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="379" width="510" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server_2.svg;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="1700" y="463.5" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBU5GqzzXGcEVhKnOeFu-9" target="eBU5GqzzXGcEVhKnOeFu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-9" value="SQLPSA01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1700" y="519" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-10" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server_2.svg;strokeColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="469" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-11" value="DBLOADER01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1915" y="527.5" width="40" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-12" value="&lt;ul&gt;&lt;li&gt;Jenkins&lt;/li&gt;&lt;li&gt;Powershell Authority&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="549" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-13" value="&lt;div&gt;XpressFeed FrontEnd for PG ver&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="550" width="130" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="853" y="1205" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-15" value="SQLSLLGNT01&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="853" y="1175" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="915" y="1166" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-17" value="&lt;div&gt;Commerce&lt;/div&gt;&lt;div&gt;dba_local&lt;/div&gt;&lt;div&gt;DBATools&lt;/div&gt;&lt;div&gt;FreeMail&lt;/div&gt;&lt;div&gt;MarketingOps&lt;/div&gt;&lt;div&gt;Ntirety&lt;/div&gt;&lt;div&gt;Party&lt;/div&gt;&lt;div&gt;StrongMailDemo&lt;/div&gt;&lt;div&gt;StrongMailStaging&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1086.25" y="1220" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eBU5GqzzXGcEVhKnOeFu-19" value="8 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;64 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 60 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 200 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 1100 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="815.5" y="1239" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1026.5" y="1600" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="832.5" y="1645" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-3" value="SQLAPX01&lt;br&gt;WS 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="832.5" y="1615" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="894.5" y="1606" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-5" value="&lt;div&gt;AdventIdentityServices&lt;/div&gt;&lt;div&gt;APXController&lt;/div&gt;&lt;div&gt;APXController_Archive&lt;/div&gt;&lt;div&gt;APXFirm&lt;/div&gt;&lt;div&gt;APXFirm_Archive&lt;/div&gt;&lt;div&gt;APXFirm_Doc&lt;/div&gt;&lt;div&gt;APXFirm_Temp&lt;/div&gt;&lt;div&gt;MDM&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1065.75" y="1660" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-6" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 200 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 100 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="795" y="1679" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1026.5" y="1810" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="832.5" y="1850" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-9" value="SQLXPRESSFEED01&lt;br&gt;WS 2012&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="832.5" y="1825" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="894.5" y="1816" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-11" value="&lt;div&gt;fooliq_DW&lt;/div&gt;&lt;div&gt;FoolIQ_ETL&lt;/div&gt;&lt;div&gt;Investing_Intel&lt;/div&gt;&lt;div&gt;XpressFeedControl&lt;/div&gt;&lt;div&gt;XpressfeedTarget&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1065.75" y="1870" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-12" value="6 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;32 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 65 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 2048 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 180 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="795" y="1889" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1012.5" y="2020" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="818.5" y="2065" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-15" value="SQLDIST03&lt;br&gt;WSC 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="818.5" y="2035" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="880.5" y="2026" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-17" value="&lt;div&gt;SystemDBs&lt;/div&gt;&lt;div&gt;Only&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1051.75" y="2080" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-18" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;80 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 65 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 200 GB&lt;br&gt;HDD3&amp;nbsp; 300 GB&lt;br&gt;HDD4 80 GB&lt;br&gt;HDD5&amp;nbsp; 20 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="781" y="2099" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1009.5" y="2210" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-20" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="815.5" y="2250" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-21" value="SQLDPT01&lt;br&gt;WS 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="815.5" y="2225" width="44.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="877.5" y="2216" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-23" value="&lt;div&gt;dpa_repository&lt;/div&gt;&lt;div&gt;DPTREPO&lt;/div&gt;&lt;div&gt;FunStuff&lt;/div&gt;&lt;div&gt;SentryOne&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1048.75" y="2270" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-24" value="8 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;32 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 70 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 300 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 30 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 25 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="778" y="2289" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="995.5" y="2420" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="801.5" y="2465" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-27" value="SQLETL02&lt;br&gt;WS 2016&lt;br&gt;SS 2017" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="778" y="2435" width="80.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="863.5" y="2426" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-29" value="SSISDB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1034.75" y="2480" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Htj4hgdlIg0BYpYHfzmZ-30" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;64 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 50 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="764" y="2499" width="57" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="IQP16W5TA6kJecHZ47iB-1" value="4 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 400 GB&lt;br style=&quot;font-size: 7px&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1873" y="495.75" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQP16W5TA6kJecHZ47iB-2" value="2 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;8 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 40 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 400 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="485.5" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1047" y="1385" width="118.5" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" parent="1" vertex="1">
+          <mxGeometry x="853" y="1430" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-9" value="SQLSLLGNT02&lt;br&gt;WSC 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="853" y="1400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pulse_pack_by_chromatix/128/suivant_natural.png;fontSize=7;align=left;" parent="1" vertex="1">
+          <mxGeometry x="915" y="1391" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-11" value="&lt;div&gt;AprimoDialogue&lt;/div&gt;&lt;div&gt;Commerce&lt;/div&gt;&lt;div&gt;con_test&lt;/div&gt;&lt;div&gt;dba_local&lt;/div&gt;&lt;div&gt;DBATools&lt;/div&gt;&lt;div&gt;FreeMail&lt;/div&gt;&lt;div&gt;Ntirety&lt;/div&gt;&lt;div&gt;Party&lt;/div&gt;&lt;div&gt;StrongMailAcq&lt;/div&gt;&lt;div&gt;StrongMailAcqDataSource&lt;/div&gt;&lt;div&gt;StrongMailStaging&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="1080.5" y="1450" width="51.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-12" value="8 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;64 GB RAM&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 60 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 300 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 50 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 1100 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="815.5" y="1464" width="57" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="KcQDXjHGKW1myC8hyM5n-16" value="2019 Upgrade for MS02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="898.5" y="1380" width="143" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-1" value="DEVSQLAAG01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="196" y="515.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-3" value="&lt;div&gt;MMCentral&lt;/div&gt;&lt;div&gt;SQLAAG&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="949" y="510" width="116" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="961.5" y="969" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-7" value="Availability Group" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="1">
+          <mxGeometry x="781" y="901.25" width="310" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-5" value="SQLREPL02&lt;br&gt;WSF 2019&lt;br&gt;SS 2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="961.5" y="939" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-6" value="20 CPU&lt;br style=&quot;font-size: 7px&quot;&gt;256 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD1 80 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD2 2100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD3 1100 GB&lt;br style=&quot;font-size: 7px&quot;&gt;HDD4 5470 GB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="911.5" y="1019" width="57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-9" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;strokeColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="990" as="sourcePoint" />
+            <mxPoint x="950" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOZzwRexmx2HzsHUWjhf-10" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=7;strokeColor=#00FF00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="990" as="sourcePoint" />
+            <mxPoint x="920" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
